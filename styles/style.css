@@ -3,9 +3,13 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-
 h1 {
   font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
   text-align: center;
 }
 
@@ -38,7 +42,7 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 256px;
 }
 
 button {
